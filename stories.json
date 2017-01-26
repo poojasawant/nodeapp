@@ -1,0 +1,30 @@
+[
+  {
+    "storyId": 1,
+    "stationId": "WBUR",
+    "title": "At Boston Forum, Federal And Local Officials Discuss Region’s Transportation Future",
+    "datePublished": "2015–10–14 12:22",
+    "authorId": "author2"
+  },
+  {
+    "storyId": 2,
+    "stationId": "WBUR",
+    "title": "Boston’s Transportation Future? City Releases Report Detailing Public’s Transit Goals",
+    "datePublished": "2015–10–09 09:17",
+    "authorId": "author2"
+  },
+  {
+    "storyId": 3,
+    "stationId": "WNPR",
+    "title": "Sen. Murphy Seeks Feedback From “Fed Up” Car Commuters",
+    "datePublished": "2015–10–15 16:25",
+    "authorId": "author3"
+  },
+  {
+    "storyId": 4,
+    "stationId": "WNPR",
+    "title": "Solar Installations Skyrocket, But Connecticut Consumers Still Need to Do Their Homework",
+    "datePublished": "2015–10–15 09:12",
+    "authorId": "author4"
+  }
+]
