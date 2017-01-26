@@ -1,4 +1,4 @@
-you would need node and then do npm install express
+you would need node and then do npm install express or fs (check node_modules folder)
 for running node app run index.js
 
 port is 3000 if not then use 8081
